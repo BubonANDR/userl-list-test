@@ -1,0 +1,17 @@
+.popup__overflow{
+position: absolute;
+width: 100vw;
+height: 100vh;
+top:0px;
+left:0px;
+opacity: 0.1;
+background-color:rgb(174, 173, 251);
+z-index: 2;
+visibility: hidden;
+transition: opacity 0.2s linear,visibility 0.2s linear;
+}
+
+.popup__overflow_visible{
+    visibility: visible;
+    opacity: 0.8;
+}

@@ -1,0 +1,33 @@
+@import url(../vendors/normalize.css);
+@import url(./constants.css);
+@import url(../blocks/main-frame/main-frame.css);
+@import url(../blocks/title/title.css);
+@import url(../blocks/seach-form/seach-form.css);
+@import url(../blocks/seach-input/seach-input.css);
+@import url(../blocks/filter-button/filter-button.css);
+@import url(../blocks/filter-image/filter-image.css);
+@import url(../blocks/sorting-area/sorting-area.css);
+@import url(../blocks/sorting-link/sorting-link.css);
+@import url(../blocks/labels-text/labels-text.css);
+@import url(../blocks/grid-container/grid-container.css);
+@import url(../blocks/template/template.css);
+@import url(../blocks/template/template__user.css);
+@import url(../blocks/template/template__raiting-area.css);
+@import url(../blocks/template/table-row.css);
+@import url(../blocks/template/template__reg-date.css);
+@import url(../blocks/page-number/page-number.css);
+@import url(../blocks/popup/popup.css);
+@import url(../blocks/popup/popup-form.css);
+@import url(../blocks/popup/popup__button.css);
+@import url(../blocks/popup/popup__button_blue.css);
+@import url(../blocks/popup/popup__overflow.css);
+
+* {
+    outline:none;
+    
+}
+
+
+td,th{
+    width:100% ;
+}

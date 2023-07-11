@@ -1,0 +1,19 @@
+.template__raiting-area{
+display: flex;
+justify-content: space-between;
+align-items: start;
+margin: 0;
+padding: 0;
+
+}
+
+.template__raiting{
+color: var(--font);
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: 16px;
+margin: 0;
+padding: 0;
+}

@@ -1,0 +1,12 @@
+.labels-text{
+    color: var(--names-tablet, #9EAAB4);
+font-family: Inter;
+font-size: 10px;
+font-style: normal;
+font-weight: 500;
+line-height: 14px;
+padding: 0;
+margin: 0;
+align-self: start;
+
+}

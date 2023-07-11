@@ -1,0 +1,13 @@
+.page-number{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    margin: 20px 50%;
+    width: 50px;
+    padding: 5px;
+    font-size: 14px;
+    color: var(--username);
+    border: var(--font) 2px dashed;
+    border-radius: 15px;
+    text-align: center;
+}

@@ -1,0 +1,18 @@
+.sorting-link{
+    color: var(--names-tablet, #9EAAB4);
+    font-family: Inter;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 14px; 
+    text-decoration-style: dashed;
+    margin: 0;
+    padding: 0;
+   
+}
+
+
+.sorting-link_active{
+    color: #333;
+
+}

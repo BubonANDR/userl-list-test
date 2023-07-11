@@ -1,0 +1,16 @@
+.popup__button{
+display: flex;
+padding: 6px 36px;
+align-items: flex-start;
+gap: 10px;
+color: var(--gray-3, #828282);
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+border-radius: 3px;
+border: 0px;
+background: var(--gray-5, #E0E0E0);
+cursor: pointer;
+}

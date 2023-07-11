@@ -1,0 +1,14 @@
+.main-frame {
+   background-color:  var(--background);
+   min-width: 1000px;
+   min-height: 647px;
+   display: flex;
+   flex-direction: column;
+   box-sizing: border-box;
+   padding: 12px 12px 0 27px;
+   margin: 0;
+   font-family: Inter;
+   font-style: normal;
+   font-weight: 500;
+  
+}

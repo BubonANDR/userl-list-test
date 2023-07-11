@@ -1,0 +1,16 @@
+.sorting-area{
+    display: flex;
+    flex-direction: row;
+    gap:8px;
+    font-family: Inter;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 14px;
+    align-items:center;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 15px;
+  
+
+}

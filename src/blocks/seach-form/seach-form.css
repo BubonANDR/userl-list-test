@@ -1,0 +1,12 @@
+.seach-form {
+display: flex; 
+flex-direction: column;
+justify-content: flex-start;
+max-height: 102px;
+flex-shrink: 0;
+border-radius: 7px;
+background: #FFF;
+box-shadow: 0px 18px 15px 0px rgba(148, 148, 148, 0.15);
+margin-bottom: 72px;
+padding: 12px 44px 16px 16px;
+}

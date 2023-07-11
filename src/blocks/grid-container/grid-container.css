@@ -1,0 +1,7 @@
+.grid-container{
+    display: grid;
+    grid-template:repeat(5, 30px) / 100%;
+    margin: 0px 12px 50px 0px;
+    padding: 16px 30px 2px 16px;
+    gap:20px;
+  } 

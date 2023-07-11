@@ -1,0 +1,12 @@
+.table-row{
+    display: grid;
+    grid-template:30px / 10fr 10fr 10fr 7fr;
+    text-align: start;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}
+
+th{
+    text-align: start;
+}

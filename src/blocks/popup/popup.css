@@ -1,0 +1,19 @@
+.popup {
+    position: fixed;
+    width: auto;
+    height: auto;
+    z-index: 5;
+    opacity: 1;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: inline-flex;
+    padding: 36px 36px 32px 36px;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 24px;
+    border-radius: 8px;
+    background: #FFF;
+    }

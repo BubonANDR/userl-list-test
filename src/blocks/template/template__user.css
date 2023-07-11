@@ -1,0 +1,5 @@
+.template__user{
+color: var(--username);
+font-style: normal;
+font-weight: 700;
+}
