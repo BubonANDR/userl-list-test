@@ -12,7 +12,7 @@
     "deploy": "gh-pages -d dist",
     "dev": "webpack serve"
   },
-  "keywords": [],
+ 
   "author": "Andrew Bubon",
   "license": "ISC",
   "devDependencies": {
